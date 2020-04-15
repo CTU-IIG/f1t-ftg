@@ -7,7 +7,6 @@ This implementation can be used in two different ways -- as a separate library (
 
 
 ## Compilation
-There are two ways the implementation can be used.
 
 
 ### ROS version
@@ -81,6 +80,7 @@ Note: When the algorithm was not successful, the vector `obstacles_out` should s
 
 ## License
 Authors: Anders Solberg Pedersen, Jaroslav Klapálek
+
 Copyright (C) 2020 Czech Technical University in Prague
 
 Repository f1t-ftg contains software follow_the_gap.
